@@ -87,9 +87,10 @@ Esto es normal en aplicaciones no firmadas digitalmente.
 Este sistema está pensado para:
 
 - Equipos de backoffice
-- Gestión de pólizas y seguros
 - Atención al cliente
 - Administración de tareas operativas
+- Organización de equipos de trabajo
+- Gestión de procesos internos
 - Organización personal avanzada
 
 ---
