@@ -113,7 +113,7 @@ Desarrollado por Ezequiel Elizalde
 ## 📩 Contacto
 
 Para consultas, mejoras o colaboración:
-📧 (Agregar mail o canal de contacto)
+📧 dizlec@gmail.com
 
 ---
 
