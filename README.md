@@ -1,4 +1,3 @@
-# GestordeTareas
 # 🚀 Gestor de Tareas – Backoffice
 
 Aplicación de escritorio diseñada para optimizar la gestión diaria de tareas, notas y respuestas automatizadas en entornos de trabajo operativos.
